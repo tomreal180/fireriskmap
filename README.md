@@ -1,5 +1,4 @@
 # 📊 Project: Create fire risk map using QGIS and remote sensing
-Course : https://courses.gisopencourseware.org/course/section.php?id=574
 
 This project implements a comprehensive workflow to evaluate forest fire risk using remote sensing data. The final outputs are risk assessment maps and grids designed to support fire prevention and management efforts.
 
@@ -42,7 +41,7 @@ The data is vectorized and aggregated using **Zonal Statistics**, creating a gri
 ---
 
 ## 🛠️ Tools & Data Sources
-* **Software:** QGIS 3.x
+* **Software:** QGIS 3.44.9
 * **Input Data:** * Sentinel-2 Imagery (Copernicus Browser)
     * DEM (Open Topography)
     * Land Cover (ESA World Cover)
