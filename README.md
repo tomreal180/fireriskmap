@@ -7,7 +7,7 @@ This project implements a comprehensive workflow to evaluate forest fire risk us
 The methodology is standardized into 4 main phases:
 
 <p align="center">
-  <img src="Flowchart_v3.png" width="500" alt="Workflow Chart">
+  <img src="images/Flowchart_v3.png" width="500" alt="Workflow Chart">
   <br><em>Data Processing Workflow in QGIS</em>
 </p>
 
